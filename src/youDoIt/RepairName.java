@@ -32,6 +32,6 @@ public class RepairName {
                 }
             }
         }
-        System.out.println("Original name was " + saveOriginalName + ". Repaired name is " + name);
+        System.out.println("Original name was " + saveOriginalName + ". Repaired name is " + name)
     }
 }
