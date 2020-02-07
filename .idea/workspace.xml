@@ -12,38 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RepairName.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/youDoIt/RepairName.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BabyNameComparison.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercises/BabyNameComparison.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CountMovieSpaces.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/exercises/CountMovieSpaces.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CharacterInfo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercises/CharacterInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="68">
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -68,6 +41,7 @@
         <option value="$PROJECT_DIR$/src/youDoIt/StringBuilderMethods.java" />
         <option value="$PROJECT_DIR$/src/exercises/CharacterInfo.java" />
         <option value="$PROJECT_DIR$/src/exercises/BabyNameComparison.java" />
+        <option value="$PROJECT_DIR$/src/exercises/CountMovieSpaces.java" />
       </list>
     </option>
   </component>
@@ -296,13 +270,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/CharacterInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/youDoIt/RepairName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -317,10 +284,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/CharacterInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/exercises/CountMovieSpaces.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        <state relative-caret-position="68">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
