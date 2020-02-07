@@ -24,8 +24,8 @@
       <file leaf-file-name="StringBuilderMethods.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/youDoIt/StringBuilderMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            <state relative-caret-position="221">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -47,6 +47,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/youDoIt/NumberInput.java" />
         <option value="$PROJECT_DIR$/src/youDoIt/RepairName.java" />
+        <option value="$PROJECT_DIR$/src/youDoIt/StringBuilderMethods.java" />
       </list>
     </option>
   </component>
@@ -104,9 +105,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StringBuilderMethods">
     <configuration name="RepairName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="youDoIt.RepairName" />
+      <module name="Chapter 7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="youDoIt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StringBuilderMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="youDoIt.StringBuilderMethods" />
       <module name="Chapter 7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -157,8 +169,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.RepairName" />
+      <item itemvalue="Application.StringBuilderMethods" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderMethods" />
         <item itemvalue="Application.RepairName" />
       </list>
     </recent_temporary>
@@ -229,8 +246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/youDoIt/StringBuilderMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        <state relative-caret-position="221">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>
