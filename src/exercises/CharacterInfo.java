@@ -1,8 +1,13 @@
 package exercises;
 
+import java.util.Scanner;
+
 public class CharacterInfo {
     public static void main(String[] args) {
-        char aChar = 'C';
+        Scanner input = new Scanner(System.in);
+        char aChar;
+        System.out.println("Please enter a character meaning only a letter or number or space > ");
+        aChar = input.nextLine().charAt(0);
         System.out.println("The character is " + aChar);
 
         if(Character.isUpperCase(aChar)) {
