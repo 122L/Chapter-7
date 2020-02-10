@@ -12,7 +12,10 @@ public class PigLatin {
         System.out.println("Insert words >>> ");
         words = input.nextLine();
 
-        for(int i = 0; i < words.length();)
+        for(int i = 0; i < words.length(); i++) {
+            if(words.substring(i) == "a" || words.substring(i) == "e" || words.substring(i) == "i" || words.substring(i) == "o" || words.substring(i) == "u") {
 
+            }
+        }
     }
 }

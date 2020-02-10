@@ -12,29 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CountMovieSpaces.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercises/CountMovieSpaces.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PigLatin.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/exercises/PigLatin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="15" column="159" selection-start-line="15" selection-start-column="159" selection-end-line="15" selection-end-column="159" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CharacterInfo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercises/CharacterInfo.java">
+      <file leaf-file-name="War.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gameZone/War.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="306">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -60,15 +51,16 @@
         <option value="$PROJECT_DIR$/src/exercises/CharacterInfo.java" />
         <option value="$PROJECT_DIR$/src/exercises/BabyNameComparison.java" />
         <option value="$PROJECT_DIR$/src/exercises/CountMovieSpaces.java" />
+        <option value="$PROJECT_DIR$/src/gameZone/War.java" />
         <option value="$PROJECT_DIR$/src/exercises/PigLatin.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -98,6 +90,12 @@
               <item name="Chapter 7" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter 7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gameZone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter 7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter 7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="youDoIt" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -110,6 +108,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Java/Chapter-3" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -124,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountMovieSpaces">
+  <component name="RunManager" selected="Application.War">
     <configuration name="BabyNameComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.BabyNameComparison" />
       <module name="Chapter 7" />
@@ -169,13 +168,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringBuilderMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="youDoIt.StringBuilderMethods" />
+    <configuration name="War" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gameZone.War" />
       <module name="Chapter 7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="youDoIt.*" />
+          <option name="PATTERN" value="gameZone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,18 +222,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.RepairName" />
-      <item itemvalue="Application.StringBuilderMethods" />
       <item itemvalue="Application.CharacterInfo" />
       <item itemvalue="Application.BabyNameComparison" />
       <item itemvalue="Application.CountMovieSpaces" />
+      <item itemvalue="Application.War" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.War" />
         <item itemvalue="Application.CountMovieSpaces" />
         <item itemvalue="Application.BabyNameComparison" />
         <item itemvalue="Application.RepairName" />
         <item itemvalue="Application.CharacterInfo" />
-        <item itemvalue="Application.StringBuilderMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +267,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -365,10 +364,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameZone/War.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/exercises/PigLatin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="15" column="159" selection-start-line="15" selection-start-column="159" selection-end-line="15" selection-end-column="159" />
         </state>
       </provider>
     </entry>
